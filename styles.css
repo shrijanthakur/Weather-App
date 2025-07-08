@@ -1,0 +1,82 @@
+.container {
+  background: linear-gradient(135deg, #00feba, #5b548a);
+  text-align: center;
+  max-width: 500px;
+  width: 90%;
+  margin: 100px auto 0;
+  border-radius: 25px;
+}
+
+.input-bar {
+  border-radius: 20px;
+  height: 40px;
+  border: none;
+  width: 230px;
+  outline: 0;
+  margin-top: 30px;
+  color: grey;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 15px;
+}
+
+.search-button {
+  border-radius: 50%;
+  border: 0px solid;
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.search-image {
+  height: 20px;
+}
+
+.weather-icon {
+  width: 180px;
+  margin: 15px auto 0px;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  font-weight: normal;
+  margin: 0px;
+}
+h2 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin: 0px auto 40px;
+  font-weight: normal;
+}
+.conditions {
+  display: flex;
+  gap: 70px;
+  justify-content: center;
+}
+
+.humidity {
+  display: flex;
+}
+.wind {
+  display: flex;
+}
+
+.con-image {
+  width: 35px;
+  height: 35px;
+}
+p {
+  color: white;
+}
+.data1, .data2 {
+  font-size: 25px;
+  margin: 0px 10px 0px 10px;
+}
+.text {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
