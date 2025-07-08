@@ -14,7 +14,6 @@ A simple and user-friendly weather web app built using **HTML**, **CSS**, and **
 - 💾 Remembers the **last searched city**
 - 💡 Handles errors (invalid city names, empty input)
 - 🧠 Uses the **OpenWeatherMap API**
-- 💻 Fully responsive design
 
 ---
 
