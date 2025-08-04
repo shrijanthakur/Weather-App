@@ -1,4 +1,4 @@
-# 🌐 Live Site: [https://shrijanthakur.github.io/Weather-App/](https://shrijanthakur.github.io/Weather-App/)
+
 
 # 🌦️ Weather App
 
